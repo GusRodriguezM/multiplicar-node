@@ -1,0 +1,15 @@
+{
+  "name": "tablas",
+  "version": "1.0.0",
+  "description": "Ejemplo de una aplicación de línea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gus Rodríguez Morales",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.1.0"
+  }
+}
